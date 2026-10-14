@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&height=40&lines=Frontend+engineer+building+KaneAI+%40+TestMu+AI;React+%C2%B7+Next.js+%C2%B7+TypeScript;Accessibility+nerd+(WCAG+2.1+AA);Shipping+side+projects+with+real+users" alt="Frontend engineer building KaneAI at TestMu AI" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&height=40&lines=Software+Engineer+(MTS)+%40+TestMu+AI;React+%C2%B7+Next.js+%C2%B7+TypeScript;Accessibility+nerd+(WCAG+2.1+AA);Shipping+side+projects+with+real+users" alt="Software Engineer (MTS) at TestMu AI" />
 </p>
 
 ### Hi, I'm Shivang 👋
 
-Frontend engineer at **TestMu AI (formerly LambdaTest)**, building **KaneAI**, an AI-native test authoring and management platform.
+Software Engineer (MTS) at **TestMu AI (formerly LambdaTest)**, on the team behind **KaneAI**, an AI-native test authoring and management platform.
 I work mostly in React, Next.js and TypeScript, care a lot about accessibility, and ship full-stack when the product needs it.
 
 [Portfolio & blog](https://shivangramola.in) · [LinkedIn](https://www.linkedin.com/in/shivang-ramola007)
