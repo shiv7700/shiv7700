@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=180&section=header&text=Shivang%20Ramola&fontSize=44&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Shivang Ramola" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&height=40&lines=Frontend+engineer+building+KaneAI+%40+TestMu+AI;React+%C2%B7+Next.js+%C2%B7+TypeScript;Accessibility+nerd+(WCAG+2.1+AA);Shipping+side+projects+with+real+users" alt="Frontend engineer building KaneAI at TestMu AI" />
+</p>
+
 ### Hi, I'm Shivang 👋
 
 Frontend engineer at **TestMu AI (formerly LambdaTest)**, building **KaneAI**, an AI-native test authoring and management platform.
@@ -29,4 +37,13 @@ Long-form posts on frontend and systems at [shivangramola.in](https://shivangram
 
 #### Toolbox
 
-`TypeScript` `React` `Next.js` `Tailwind` `React Query` `Redux` `Node.js` `PostgreSQL` `Supabase` `Socket.IO` · learning `Go`
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,postgres,supabase,go,git,vercel&perline=12" alt="TypeScript, JavaScript, React, Next.js, Tailwind, Redux, Node.js, PostgreSQL, Supabase, Go, Git, Vercel" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shiv7700/shiv7700/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/shiv7700/shiv7700/output/github-snake.svg" alt="Contribution graph being eaten by a snake" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=100&section=footer" width="100%" alt="" />
